@@ -1,1 +1,1 @@
-# Deep-Learning-Generative-AI-Computer-Vision-Train-a-Neural-Network-with-Images-
+# Deep-Learning-Generative-AI-Computer-Vision-Train-a-Neural-Network-with-Images
