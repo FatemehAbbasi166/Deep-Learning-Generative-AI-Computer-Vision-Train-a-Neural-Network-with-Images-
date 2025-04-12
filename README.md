@@ -18,7 +18,3 @@ The following Python libraries are required:
 - NumPy
 - Matplotlib
 
-You can install them using pip:
-
-```bash
-pip install tensorflow numpy matplotlib
